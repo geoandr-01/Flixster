@@ -33,9 +33,6 @@ I had difficulties while getting the grid cell space configurations to line up w
 - [X] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [X] (3pts) User can view the movie poster image for each movie.
 
-#### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 <img src="http://g.recordit.co/dOz8MAhnDq.gif" width=250><br>
